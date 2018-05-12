@@ -1,0 +1,27 @@
+_repo: Moral-Principles-and-Medical-Practice--The-Basis-of-Medical-Jurisprudence_18616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppens, Charles
+    birthdate: 1835
+    deathdate: 1920
+    gutenberg_agent_id: '8150'
+    url: http://www.gutenberg.org/2009/agents/8150
+description: ''
+gutenberg_issued: '2006-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medical ethics'
+- !lcc 'R'
+- !lcsh 'Medical jurisprudence'
+title: 'Moral Principles and Medical Practice: The Basis of Medical Jurisprudence'
+url: http://www.gutenberg.org/ebooks/18616
